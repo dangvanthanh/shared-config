@@ -14,11 +14,7 @@
     "config",
     "configuration"
   ],
-  "author": {
-    "name": "Dang Van Thanh",
-    "email": "dangvanthanh@dangthanh.org",
-    "url": "https://dangthanh.org"
-  },
+  "author": "Dang Van Thanh <dangvanthanh@dangthanh.org> (https://dangthanh.org)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dangvanthanh/prettier-config/issues"
