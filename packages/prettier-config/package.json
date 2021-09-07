@@ -1,0 +1,28 @@
+{
+  "name": "@dangvanthanh/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangvanthanh/prettier-config.git"
+  },
+  "keywords": [
+    "prettier-config",
+    "javascript",
+    "js",
+    "config",
+    "configuration"
+  ],
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "author": "Dang Van Thanh <dangvanthanh@dangthanh.org> (https://dangthanh.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangvanthanh/prettier-config/issues"
+  },
+  "homepage": "https://github.com/dangvanthanh/prettier-config#readme"
+}

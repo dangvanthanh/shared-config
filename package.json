@@ -1,23 +1,20 @@
 {
-  "name": "@dangvanthanh/prettier-config",
+  "name": "shared-config",
   "version": "1.0.0",
-  "description": "Shared prettier config",
+  "description": "Prettier Config - ESLint Config",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dangvanthanh/prettier-config.git"
+    "url": "git+https://github.com/dangvanthanh/shared-config.git"
   },
-  "keywords": [
-    "prettier-config",
-    "javascript",
-    "js",
-    "config",
-    "configuration"
-  ],
-  "author": "Dang Van Thanh <dangvanthanh@dangthanh.org> (https://dangthanh.org)",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dangvanthanh/prettier-config/issues"
+    "url": "https://github.com/dangvanthanh/shared-config/issues"
   },
-  "homepage": "https://github.com/dangvanthanh/prettier-config#readme"
+  "homepage": "https://github.com/dangvanthanh/shared-config#readme"
 }
